@@ -1,5 +1,6 @@
 // leejunejae 오픈소스 이해와 실습 과제 4번
-// IDE 연동 후 PUSH를 위한 주석 추가 
+// IDE 연동 후 PUSH를 위한 주석 추가
+// Commit 내용 "task4 주석 추가" 
 #include <stdio.h>
 
 void func1(int* p);
